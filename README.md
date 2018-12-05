@@ -22,3 +22,7 @@ Click [here](https://github.com/rsing25/weatherapp/releases) then download the .
 > npm install
 > npm start
 ```
+http://localhost:8080/
+
+
+https://user-images.githubusercontent.com/45562911/49495650-935c3f80-f818-11e8-84f3-d3542cd56bc5.png
